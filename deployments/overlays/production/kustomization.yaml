@@ -5,3 +5,4 @@ namePrefix: prod-
 
 resources:
 - service.yaml
+- endpoint.yaml

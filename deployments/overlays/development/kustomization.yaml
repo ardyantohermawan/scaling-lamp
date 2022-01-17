@@ -5,3 +5,4 @@ namePrefix: dev-
 
 resources:
 - service.yaml
+- endpoint.yaml
