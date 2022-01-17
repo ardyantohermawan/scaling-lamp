@@ -2,3 +2,6 @@ bases:
   - ../../base
 
 namePrefix: dev-
+
+resources:
+- service.yaml
